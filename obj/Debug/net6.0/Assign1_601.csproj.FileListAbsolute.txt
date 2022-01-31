@@ -1,0 +1,15 @@
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\bin\Debug\net6.0\Assign1_601.exe
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\bin\Debug\net6.0\Assign1_601.deps.json
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\bin\Debug\net6.0\Assign1_601.runtimeconfig.json
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\bin\Debug\net6.0\Assign1_601.dll
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\bin\Debug\net6.0\ref\Assign1_601.dll
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\bin\Debug\net6.0\Assign1_601.pdb
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\obj\Debug\net6.0\Assign1_601.csproj.AssemblyReference.cache
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\obj\Debug\net6.0\Assign1_601.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\obj\Debug\net6.0\Assign1_601.AssemblyInfoInputs.cache
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\obj\Debug\net6.0\Assign1_601.AssemblyInfo.cs
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\obj\Debug\net6.0\Assign1_601.csproj.CoreCompileInputs.cache
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\obj\Debug\net6.0\Assign1_601.dll
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\obj\Debug\net6.0\ref\Assign1_601.dll
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\obj\Debug\net6.0\Assign1_601.pdb
+C:\Users\Corn\Desktop\oliver\Newfolder\20220125\Assign1_601\obj\Debug\net6.0\Assign1_601.genruntimeconfig.cache
